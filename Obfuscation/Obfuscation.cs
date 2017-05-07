@@ -24,13 +24,13 @@ namespace CorazonLibrary.Obfuscation
         /// The characters which will be used to represent the obfuscated string.
         /// This set cannot overlap with DummyKeys set.
         /// </summary>
-        private string PossibleKeys = "cnbetvqizlu8mnj3eoap1fjprvqfgw4b9my0och7wlxszu";
+        private string PossibleKeys = "cVnRbIevBqlJu8YAmUKjFM3oPpC1fwQ4G90HS7xZ";
         
         /// <summary>
         /// The dummy characters to be added in case the obfuscated string is less than MinimumLength.
         /// This set cannot overlap with PossibleKeys set.
         /// </summary>
-        private string DummyKeys = "dkixrtkh5yg6s2da";
+        private string DummyKeys = "dkiXrEtyh5DLgOz6Ts2Na";
         
         /// <summary>
         /// The minimum length which the obfuscated key needs to have.

@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 
+/*
+    Deprecated.
+    New Version: https://github.com/kendtimothy/Cryptography
+*/
 namespace CorazonLibrary.Obfuscation
 {
     /// <summary>
